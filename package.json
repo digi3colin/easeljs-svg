@@ -1,7 +1,14 @@
 {
   "name": "easeljs-svg-path",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The wrapper to draw SVG path into easeljs graphic object",
+  "keywords": [
+    "svg",
+    "easeljs",
+    "flash",
+    "createjs",
+    "graphics"
+  ],
   "repository": {
     "type" : "git",
     "url" : "https://github.com/digi3colin/easeljs-svg"
